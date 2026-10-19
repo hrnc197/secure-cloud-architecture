@@ -1,10 +1,9 @@
 # Secure Cloud Architecture
 
 ## Student Information
-- **Name:** [YOUR FULL NAME]
-- **Section:** [YOUR SECTION]
-- **Course:** [YOUR COURSE]
-- **Date:** [CURRENT DATE]
+- **Name:** Kyle Harrence Angeles
+- **Section:** CCIS7E
+- **Course:** BSIT NET AD
 
 ## Project Description
 This activity demonstrates a proposed secure cloud architecture for a Student Management Application[cite: 2].
